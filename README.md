@@ -1,6 +1,6 @@
 # creating-packages-PyPi
 
-## Task 1 - calculation package
+## Task 1 - calculation package (local package)
 
 Created package called calculations, that should consist of at least 4 modules.
 Every module should be responsible for one distinct mathematical operations (addition, subtraction, etc.).
