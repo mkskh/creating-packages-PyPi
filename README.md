@@ -9,7 +9,7 @@ Next to the package write Python script, that uses aforementioned modules to do 
 
 ## Task 2 - creating package on PyPI
 
-pip install area-calculator-dci1234  
+### RESULT: pip install area-calculator-dci1234  
 
 
 - Write your Python module and save it under a directory  
